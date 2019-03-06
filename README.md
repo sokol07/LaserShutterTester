@@ -1,4 +1,5 @@
 # Laser Shutter Tester v1.0  
+![Logo](/images/LaserShutterTesterLogo.png)
 ### Opis po polsku poniżej!
 #### Images below PL description!
 # ENG
@@ -35,4 +36,13 @@ LST może być zasilany z dowolnego zasilanego portu USB: w komputerze, ładowar
 Dokładność opisanego urządzenia wynosi 1ms, co oznacza, że możliwe jest testowanie czasów migawki do 1/1000 sekundy. Z punktu widzenia sterownika możliwe jest rozszerzenie dokładności działania do mikrosekund, co pozwoli na badanie krótszych czasów. Modyfikacja taka wymaga dostosowania odpowiedniego fragmentu kodu oraz sprawdzenia, jak na tak krótkie impulsy świetlne reaguje zastosowany fotoelement.
   
 #### Użycie
-Po włączeniu urządzenia i wyświetleniu informacji "Ready..." na wyświetlaczu, należy umieścić badany aparat na drodze wiązki (plamka lasera musi się znajdować w obrębie migawki). Następnie należy wyzwolić aparat na uprzednio ustawionym, badanym czasie. Na ekranie zostanie wyświetlony zmierzony czas. W przypadku czasu dłuższego niż 1 sekunda, czas ten będzie wyświetlony jako ułamek dziesiętny. Jeśli czas będzie krótszy od 1 sekundy, wyświetlony zostanie czas w postaci ułamka zwykłego oraz dziesiętnego.
+Po włączeniu urządzenia i wyświetleniu informacji "Ready..." na wyświetlaczu, należy umieścić badany aparat na drodze wiązki (plamka lasera musi się znajdować w obrębie migawki). Następnie należy wyzwolić aparat na uprzednio ustawionym, badanym czasie. Na ekranie zostanie wyświetlony zmierzony czas. W przypadku czasu dłuższego niż 1 sekunda, czas ten będzie wyświetlony jako ułamek dziesiętny. Jeśli czas będzie krótszy od 1 sekundy, wyświetlony zostanie czas w postaci ułamka zwykłego oraz dziesiętnego.  
+  
+## Photos
+  
+_ENG: Completed device. PL: Zbudowane urządzenie._  
+![ENG: Completed device. PL: Zbudowane urządzenie.](/images/LST.png)  
+  
+ENG: Device scheme. PL: Schemat urządzenia.  
+![ENG: Device scheme. PL: Schemat urządzenia.](/images/laser_bb.png)  
+
