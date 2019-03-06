@@ -43,6 +43,6 @@ Po włączeniu urządzenia i wyświetleniu informacji "Ready..." na wyświetlacz
 _ENG: Completed device. PL: Zbudowane urządzenie._  
 ![ENG: Completed device. PL: Zbudowane urządzenie.](/images/LST.png)  
   
-ENG: Device scheme. PL: Schemat urządzenia.  
+_ENG: Device scheme. PL: Schemat urządzenia._  
 ![ENG: Device scheme. PL: Schemat urządzenia.](/images/laser_bb.png)  
 
