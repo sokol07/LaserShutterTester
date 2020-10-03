@@ -34,7 +34,7 @@ The libraries used in the code are:
 ![ENG: Device schematic. PL: Schemat urządzenia.](/images/laser2_bb.png) 
   
 #### Resources
-[1] Vishay TEPT5600 datasheet: https://www.vishay.com/docs/84768/tept5600.pdf
+[1] Vishay TEPT5600 datasheet: https://www.vishay.com/docs/84768/tept5600.pdf  
 [2] Vishay phototransistors information: https://www.vishay.com/docs/84154/appnotesensors.pdf
 
 # PL
@@ -64,14 +64,11 @@ W kodzie programu wykorzystano następujące biblioteki:
 3. Bibliotekę Adafruit SSD1306: https://github.com/adafruit/Adafruit_SSD1306
   
 #### Materiały
-[1] Dokumentacja Vishay TEPT5600: https://www.vishay.com/docs/84768/tept5600.pdf
+[1] Dokumentacja Vishay TEPT5600: https://www.vishay.com/docs/84768/tept5600.pdf  
 [2] Informacje o fototranzysotrach Vishay: https://www.vishay.com/docs/84154/appnotesensors.pdf
   
 ## Photos
   
 _ENG: Completed device. PL: Zbudowane urządzenie._  
-![ENG: Completed device. PL: Zbudowane urządzenie.](/images/LST.png)  
-  
-_ENG: Device scheme. PL: Schemat urządzenia._  
-![ENG: Device scheme. PL: Schemat urządzenia.](/images/laser_bb.png)  
+![ENG: Completed device with ESP8266 and photoresistor (v1.0). PL: Zbudowane urządzenie z ESP8266 i fotorezystorem (v1.0).](/images/LST.png)   
 
